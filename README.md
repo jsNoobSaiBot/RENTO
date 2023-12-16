@@ -1,4 +1,4 @@
-#RENTO-realestate
+#RENTO
 responsive real-estate website //HTML,CSS,vanillaJS
 
 ![img1](https://github.com/jsNoobSaiBot/RENTO/assets/145670746/ae5182e1-1516-4a8e-8dd2-8c2b77a85e4b)
